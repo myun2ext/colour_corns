@@ -1,0 +1,4 @@
+require "coloured_corn/version"
+
+module ColouredCorn
+end
